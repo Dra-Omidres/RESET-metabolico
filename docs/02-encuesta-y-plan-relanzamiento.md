@@ -96,9 +96,24 @@ la oferta 16 cápsulas (3 clases)        (5–7 días)  medición
 4. **Venta.** Clase de apertura, preguntas frecuentes y garantía.
 5. **Medir.** Inscritas → asistentes → compradoras → quienes completan el programa → resultados (energía y cintura).
 
-## 5. Datos que faltan del primer lanzamiento
+## 5. Números del primer lanzamiento (recuperados del correo)
 
-- Cuántas personas se inscribieron al reto y cuántas asistieron a cada clase
-- Ventas totales en Hotmart (solo encontré 2 correos de venta)
-- Inversión en publicidad de Meta (hay recibos en el correo que puedo sumar)
-- Comentarios o resultados de las alumnas de RESET 4S
+No existen listados de inscritas ni de asistentes. Esto es lo que se pudo reconstruir a partir de los correos de Meta y de Hotmart:
+
+| Concepto | Monto | Fuente |
+|---|---|---|
+| Publicidad para captar inscritas al reto (14-nov a 5-dic) | US$ 365,23 | Recibos de Meta: 300,00 + 65,23 |
+| Publicidad para vender RESET 4S (1 al 9-dic) | US$ 116,85 | Recibos de Meta: 69,68 + 47,17 |
+| **Total invertido en publicidad** | **US$ 482,08** | 3 recibos de Meta |
+| Venta de RESET 4S (1-dic-2025) | US$ 123,10 | Correo de Hotmart |
+| Venta de RESET 4S (10-feb-2026) | US$ 153,94 | Correo de Hotmart |
+| **Total de comisiones confirmadas** | **US$ 277,04** | 2 correos de "Venta realizada" |
+
+**Cálculo:** 277,04 ÷ 482,08 = 0,57. Por cada dólar invertido en publicidad volvieron unos 57 centavos.
+⚠️ _Es aproximado: puede haber cobros de Meta con otro asunto en el correo, o ventas cuyo aviso no llegó. Verifícalo en Hotmart (Mis ventas) y en el Administrador de anuncios de Meta._
+
+**Saldo retenido en Hotmart:** hay 5 correos de "¡Has hecho una venta! Registra tu cuenta bancaria" (26-ene, 27-feb, 23-abr, 23-jul y 19-nov-2026). Hotmart intentó transferirte el saldo y no pudo, porque no hay una cuenta bancaria registrada. **Hay dinero esperando en tu cuenta.** Los correos no indican el monto ni de qué producto viene.
+
+**Contactos:** aunque no hay listados descargados, las inscritas deberían seguir guardadas en Systeme.io (la página de registro) y en Mailjet (los correos del lanzamiento salieron por Mailjet), además de la comunidad de WhatsApp. Son la audiencia más interesada para el relanzamiento. Quien armó el embudo puede exportarlas.
+
+**Lección para el relanzamiento:** dejar la medición configurada desde el primer día: inscritas, asistentes por clase, ventas y costo por venta.
